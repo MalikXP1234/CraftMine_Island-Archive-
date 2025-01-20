@@ -73,25 +73,10 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Beach.Designer.vb">
-      <DependentUpon>Beach.vb</DependentUpon>
+    <Compile Include="Main_Menu.Designer.vb">
+      <DependentUpon>Main_Menu.vb</DependentUpon>
     </Compile>
-    <Compile Include="Beach.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="CM_Events.vb" />
-    <Compile Include="CM_OOP.vb" />
-    <Compile Include="CM_Subroutines.vb" />
-    <Compile Include="Forest.Designer.vb">
-      <DependentUpon>Forest.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Forest.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Mountains.Designer.vb">
-      <DependentUpon>Mountains.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Mountains.vb">
+    <Compile Include="Main_Menu.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -110,40 +95,13 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="Plains.Designer.vb">
-      <DependentUpon>Plains.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Plains.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Tundra.Designer.vb">
-      <DependentUpon>Tundra.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Tundra.vb">
-      <SubType>Form</SubType>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Beach.resx">
-      <DependentUpon>Beach.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Forest.resx">
-      <DependentUpon>Forest.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Mountains.resx">
-      <DependentUpon>Mountains.vb</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Plains.resx">
-      <DependentUpon>Plains.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Tundra.resx">
-      <DependentUpon>Tundra.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -157,150 +115,6 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Anvil.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Back Character.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Beach Node.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Beach.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Blue.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Broke ship.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Coal Node.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Coal Ore.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Crafting Table.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Dark Fruit Tree.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Dark Plain tree.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Forest.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Front Character.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Fruit Tree.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Furnace.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Gold Bar.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Gold Node.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Gold Ore.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Golden Armor.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Golden Axe.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Golden Sword.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\GrassLand.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Green.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Iron Armor.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Iron Bar.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Iron Node.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Iron Ore.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Iron Pick.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Left Character.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Mountains.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Normal Rock.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Orange.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Plain Beach Tree.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Plain Tree.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Red.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Right Character.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Ship.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Shipluffy.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\SnowLand.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Stone Pick.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Stone.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\White Fruit Tree.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\White Plain Tree.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Wood.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Wooden Armor.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Wooden Pickaxe.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Wooden Sword.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Yellow.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
