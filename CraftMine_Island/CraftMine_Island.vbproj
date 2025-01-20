@@ -73,6 +73,9 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataClass\Events.vb" />
+    <Compile Include="DataClass\OOP.vb" />
+    <Compile Include="DataClass\Subroutine.vb" />
     <Compile Include="Map\BeachLand.Designer.vb">
       <DependentUpon>BeachLand.vb</DependentUpon>
     </Compile>
