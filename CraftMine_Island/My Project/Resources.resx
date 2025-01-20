@@ -130,8 +130,8 @@
   <data name="Beach_Node" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Beach Node.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Blue" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Blue.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Blue_PressurePlate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Blue_PressurePlate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Broke_ship" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Broke ship.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -187,6 +187,9 @@
   <data name="Green" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Green_PressurePlate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Green_PressurePlate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Iron_Armor" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Iron Armor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -211,8 +214,8 @@
   <data name="Normal_Rock" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Normal Rock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Orange" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Orange.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Orange_PressurePlate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Orange_PressurePlate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Plain_Beach_Tree" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Plain Beach Tree.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -220,8 +223,8 @@
   <data name="Plain_Tree" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Plain Tree.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Red" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Red.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Red_PressurePlate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Red_PressurePlate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Right_Character" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Right Character.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -231,6 +234,9 @@
   </data>
   <data name="Shipluffy" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Shipluffy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sign_image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Sign_image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="SnowLand" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SnowLand.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -259,7 +265,7 @@
   <data name="Wooden_Sword" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Wooden Sword.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Yellow" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Yellow.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Yellow_PressurePlate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Yellow_PressurePlate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
