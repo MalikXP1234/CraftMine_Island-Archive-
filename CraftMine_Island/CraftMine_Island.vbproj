@@ -73,6 +73,36 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Map\BeachLand.Designer.vb">
+      <DependentUpon>BeachLand.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Map\BeachLand.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Map\ForestLand.Designer.vb">
+      <DependentUpon>ForestLand.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Map\ForestLand.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Map\GrassLand.Designer.vb">
+      <DependentUpon>GrassLand.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Map\GrassLand.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Map\MountainLand.Designer.vb">
+      <DependentUpon>MountainLand.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Map\MountainLand.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Map\SnowLand.Designer.vb">
+      <DependentUpon>SnowLand.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Map\SnowLand.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -91,6 +121,21 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Map\BeachLand.resx">
+      <DependentUpon>BeachLand.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Map\ForestLand.resx">
+      <DependentUpon>ForestLand.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Map\GrassLand.resx">
+      <DependentUpon>GrassLand.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Map\MountainLand.resx">
+      <DependentUpon>MountainLand.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Map\SnowLand.resx">
+      <DependentUpon>SnowLand.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
