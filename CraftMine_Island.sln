@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CraftMine_V2", "..\..\..\Downloads\CraftMine_V2-20250120T183016Z-001\CraftMine_V2\CraftMine_V2\CraftMine_V2.vbproj", "{F47D5730-7807-4378-B657-5C2082411991}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CraftMine", "..\..\..\Downloads\CraftMine_V2-20250120T183016Z-001\CraftMine_V2\CraftMine_V2\CraftMine.vbproj", "{F47D5730-7807-4378-B657-5C2082411991}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
