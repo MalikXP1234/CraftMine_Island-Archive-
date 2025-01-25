@@ -2,6 +2,4 @@
 
 This project was created during when I was doing my A-levels and I was needed to create something for my NEA. 
 
-This is Craftmine where you are in a world where you can get materials and you need to escape 
-
--- More will be added soon --
+This will just be a normal archive that will showcase how much I have done for and you can see how far I have improved from this base game
